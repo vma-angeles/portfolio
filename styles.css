@@ -14,13 +14,16 @@ nav{
     text-align: center;
 }
 h1{
-    background-color: bisque;
+    font-family: sans-serif;
+    font-size: 45px;
+    text-align: center;
+}
+h2{
     font-family: sans-serif;
     font-size: 45px;
     text-align: center;
 }
 footer{
-    background-color: fuchsia;
     font-family: sans-serif;
     font-size: 20px;
     text-align: center;
